@@ -1,15 +1,15 @@
 ## Learn you a computer
 
 Start with:
-1. howToComputer.md and hotkeys.md
+1. `howToComputer.md` and `hotkeys.md`
 
 > Forgive me if `howToComputer.md` has some weird phrasing, it was originally supposed to just be some notes for a talk
 
 And:
 
-1. commonCommands.md
-2. commonLinux.md
-3. git-tips.md
+1. `commonCommands.md`
+2. `commonLinux.md`
+3. `git-tips.md`
 
 If you're up for it, check out the `vim-keys.md` and follow this gradual approach (taken from the `vim.pdf`)
 1. Run the `vimtutor` in your terminal
